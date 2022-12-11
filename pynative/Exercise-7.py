@@ -1,0 +1,6 @@
+name_one= input("Enter first name: ")
+name_two= input("Enter secend name: ")
+name_three= input("Enter 3th name: ")
+print('Name1:', name_one)
+print('Name2:', name_two)
+print('Name3:', name_three)
